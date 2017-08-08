@@ -1,0 +1,24 @@
+{
+  "name": "pcacb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start" :"node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhtai9606/pcacb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhtai9606/pcacb/issues"
+  },
+  "homepage": "https://github.com/thanhtai9606/pcacb#readme"
+}
